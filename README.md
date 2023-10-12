@@ -7,7 +7,7 @@ I'm a passionate software developer with a strong focus on web technologies and 
 📚 I'm constantly learning, exploring, and staying updated with the latest industry trends to provide top-notch software solutions. When I'm not coding, I'm planning my next adventure to explore the world.
 
 🤝 Let's collaborate and create amazing software solutions together! 
-<sub><sup>[![Image Alt Text](https://github.com/guptapriyansh/guptapriyansh/raw/main/assets/63574195/f8078ae0-c43d-4136-853d-9ce5d1e2fc3e.gif)](https://github.com/guptapriyansh/guptapriyansh/assets/63574195/f8078ae0-c43d-4136-853d-9ce5d1e2fc3e)</sub></sup>
+![Image Alt Text](https://github.com/guptapriyansh/guptapriyansh/raw/main/assets/63574195/f8078ae0-c43d-4136-853d-9ce5d1e2fc3e.gif)](https://github.com/guptapriyansh/guptapriyansh/assets/63574195/f8078ae0-c43d-4136-853d-9ce5d1e2fc3e)
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/guptapriyansh098/).
 
 📧 Reach me via email at guptapriyansh1555@gmail.com.

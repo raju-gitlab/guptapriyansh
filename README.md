@@ -9,7 +9,7 @@ I'm a passionate software developer with a strong focus on web technologies and 
 🤝 Let's collaborate and create amazing software solutions together! 
 
 <div align="right">
-  ![code]<img src="https://github.com/guptapriyansh/guptapriyansh/blob/main/assets/63574195/f8078ae0-c43d-4136-853d-9ce5d1e2fc3e.gif" width="300px">
+  <img src="https://github.com/guptapriyansh/guptapriyansh/blob/main/assets/63574195/f8078ae0-c43d-4136-853d-9ce5d1e2fc3e.gif" width="300px"> ![code](https://github.com/guptapriyansh/guptapriyansh/assets/63574195/f8078ae0-c43d-4136-853d-9ce5d1e2fc3e)
 </div>
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/guptapriyansh098/).

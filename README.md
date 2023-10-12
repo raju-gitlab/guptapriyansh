@@ -1,16 +1,13 @@
-### Hi there 👋
+## 👋 Hello, I'm [Priyansh Gupta](https://github.com/guptapriyansh)
 
-<!--
-**guptapriyansh/guptapriyansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a strong focus on web technologies and a knack for creating engaging, data-driven applications. With expertise in C#, ASP.NET, HTML, CSS, jQuery, SQL, MongoDB, SMTP, and AWS Simple Email Services, I'm dedicated to crafting robust software solutions.
 
-Here are some ideas to get you started:
+🌐 Currently, I'm part of the dynamic flight and hotel team in the travel domain, where I handle multiple projects simultaneously. My love for email newsletters and content creation complements my tech skills, making for a well-rounded developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I'm constantly learning, exploring, and staying updated with the latest industry trends to provide top-notch software solutions. When I'm not coding, I'm planning my next adventure to explore the world.
+
+🤝 Let's collaborate and create amazing software solutions together!
+
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/guptapriyansh098/).
+
+📧 Reach me via email at guptapriyansh1555@gmail.com.
